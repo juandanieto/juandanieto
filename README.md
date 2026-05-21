@@ -15,7 +15,6 @@
 - 📧 You can reach me at LinkedIn: [linkedin/juandanieto](https://linkedin.com/in/juandanieto)
 
 <br/>
-
 ## 🔬 Research Areas
 
 <div align="center">
@@ -30,9 +29,6 @@
 </div>
 
 <br/>
-
-<hr style="border: 0; border-top: 0.5px solid #30363d;">
-
 ## 🛠️ Tech Stack
 
 <div align="center">

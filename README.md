@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
 
-<!--
-**juandanieto/juandanieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Juan%20David%20Nieto&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Pesquisador%20em%20IA%20%26%20PLN%20%7C%20Doutorando%20na%20UFF%20%7C%20Google%20PhD%20Fellow%202023&descAlignY=58&descSize=13&descColor=CECBF6" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+Físico de formação, cientista da computação por escolha. Pesquiso **PLN multilíngue** com foco em expressões figuradas, explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico e quântico, LLMs, IA Generativa, RAG e agentes inteligentes.
+
+Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
+
+---
+
+## Áreas de pesquisa
+
+![PLN](https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural-7F77DD?style=flat-square&logoColor=white)
+![Linguagem Figurada](https://img.shields.io/badge/Linguagem%20Figurada%20Multilíngue-534AB7?style=flat-square&logoColor=white)
+![Explicabilidade](https://img.shields.io/badge/Explicabilidade%20em%20ML-1D9E75?style=flat-square&logoColor=white)
+![GenAI](https://img.shields.io/badge/IA%20Generativa%20%26%20LLMs-D85A30?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Agentes-993C1D?style=flat-square&logoColor=white)
+![Quantum](https://img.shields.io/badge/Computação%20Quântica-185FA5?style=flat-square&logoColor=white)
+
+---
+
+## Stack técnico
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=IBM&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20Bancos%20de%20Dados-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Conquistas
+
+🏆 **Google PhD Fellowship 2023** — Computação Quântica aplicada ao setor financeiro · *Google*
+
+🥈 **2º lugar** — Hackathon IA para Óleo & Gás · *CBPF & Petrobras, 2025*
+
+🏅 **5º lugar** — Hackathon IA 2025 · *Incubadora de Empresas COPPE/UFRJ*
+
+---
+
+## Publicação
+
+> Valdrighi, G., Ribeiro, A., Pereira, J., Guardieiro, V., Hendricks, A., Miranda, D., **Nieto, J.**, et al.
+> **Best Practices for Responsible Machine Learning in Credit Scoring.**
+> *Neural Computing and Applications*, 2025.
+> 🔗 [Springer Link](https://link.springer.com/article/10.1007/s00521-025-11520-y)
+
+---
+
+## Formação
+
+| Grau | Instituição | Período |
+|------|------------|---------|
+| Ph.D. em Ciência da Computação | Universidade Federal Fluminense (UFF) | 2025 – presente |
+| M.Sc. em Física | PUC-Rio | 2021 – 2022 |
+| B.Sc. em Física | Universidad del Atlántico, Colômbia | – 2021 |
+
+---
+
+## Experiência
+
+**Pesquisador em PLN** · MeLLL / UFF *(ago 2025 – presente)*
+Pesquisa em PLN voltada à detecção e análise de expressões figuradas em contextos multilíngues, com ênfase em explicabilidade e sensibilidade cultural da IA.
+
+**Pesquisador em Machine Learning** · H.IAAC / Unicamp *(nov 2022 – jun 2024)*
+Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de dados para interpretabilidade em modelos financeiros, especialmente credit scoring.
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
+[![Email](https://img.shields.io/badge/Email-juand@id.uff.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
+[![Localização](https://img.shields.io/badge/Niterói%2C%20RJ-Brasil-1D9E75?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
+</div>

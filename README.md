@@ -1,9 +1,5 @@
-<!-- Banner -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Juan%20David%20Nieto&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Pesquisador%20em%20IA%20%26%20PLN%20%7C%20Doutorando%20na%20UFF%20%7C%20Google%20PhD%20Fellow%202023&descAlignY=58&descSize=13&descColor=CECBF6" />
-
-</div>
+# Olá, eu sou Juan David 👋
+### Pesquisador em IA & PLN · Doutorando na UFF · Google PhD Fellow 2023
 
 ---
 
@@ -82,9 +78,3 @@ Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
 [![Email](https://img.shields.io/badge/Email-juand@id.uff.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
 [![Localização](https://img.shields.io/badge/Niterói%2C%20RJ-Brasil-1D9E75?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
-</div>

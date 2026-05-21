@@ -51,13 +51,11 @@
 
 🏆 **Google PhD Fellowship 2023** — Quantum Computing applied to the financial sector · *Google*
 
-🥈 **2nd place** — AI Hackathon for Oil & Gas · *CBPF & Petrobras, 2025*
+🥈 **2nd place** — AI Hackathon for Oil & Gas · *Centro Brasileiro de Pesquisas Físicas (CBPF) & Petrobras, 2025*
 
-🏅 **5th place** — AI Hackathon 2025 · *COPPE/UFRJ Business Incubator*
+🏅 **5th place** — AI Hackathon 2025 · *Incubadora de Empresas da COPPE/UFRJ*
 
 <br/>
-
-<hr style="border: 0; border-top: 0.5px solid #30363d;">
 
 ## 📬 Social
 

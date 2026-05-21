@@ -47,35 +47,6 @@ Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](h
 
 ---
 
-## Publicação
-
-> Valdrighi, G., Ribeiro, A., Pereira, J., Guardieiro, V., Hendricks, A., Miranda, D., **Nieto, J.**, et al.
-> **Best Practices for Responsible Machine Learning in Credit Scoring.**
-> *Neural Computing and Applications*, 2025.
-> 🔗 [Springer Link](https://link.springer.com/article/10.1007/s00521-025-11520-y)
-
----
-
-## Formação
-
-| Grau | Instituição | Período |
-|------|------------|---------|
-| Ph.D. em Ciência da Computação | Universidade Federal Fluminense (UFF) | 2025 – presente |
-| M.Sc. em Física | PUC-Rio | 2021 – 2022 |
-| B.Sc. em Física | Universidad del Atlántico, Colômbia | – 2021 |
-
----
-
-## Experiência
-
-**Pesquisador em PLN** · MeLLL / UFF *(ago 2025 – presente)*
-Pesquisa em PLN voltada à detecção e análise de expressões figuradas em contextos multilíngues, com ênfase em explicabilidade e sensibilidade cultural da IA.
-
-**Pesquisador em Machine Learning** · H.IAAC / Unicamp *(nov 2022 – jun 2024)*
-Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de dados para interpretabilidade em modelos financeiros, especialmente credit scoring.
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)

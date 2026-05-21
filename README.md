@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Físico de formação, cientista da computação por escolha. Pesquiso **PLN multilíngue** com foco em expressões figuradas, explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico e quântico, LLMs, IA Generativa, RAG e agentes inteligentes.
+Pesquiso **PLN** com foco em explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico, LLMs, IA Generativa, RAG e agentes inteligentes.
 
 Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
 

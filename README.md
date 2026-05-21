@@ -1,5 +1,6 @@
-# Olá, eu sou Juan David 👋
-### Pesquisador em IA & PLN · Doutorando na UFF · Google PhD Fellow 2023
+<div align="center">
+  <img src="https://raw.githubusercontent.com/juandanieto/juandanieto/main/header.svg" alt="Hola! Soy Juan David – PhD Candidate in NLP @UFF" width="100%"/>
+</div>
 
 ---
 
@@ -78,3 +79,4 @@ Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
 [![Email](https://img.shields.io/badge/Email-juand@id.uff.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
 [![Localização](https://img.shields.io/badge/Niterói%2C%20RJ-Brasil-1D9E75?style=flat-square&logo=googlemaps&logoColor=white)](#)
+

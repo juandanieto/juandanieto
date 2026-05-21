@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola! Soy Juan David 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hola!+Soy+Juan+David+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+NLP+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agentes+Inteligentes;Google+PhD+Fellow+2023+%F0%9F%8F%86)](https://git.io/typing-svg)
 

@@ -5,34 +5,35 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+Computer+Science+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agents)](https://git.io/typing-svg)
 
 </div>
-<br/>
 
 ---
+
 - 👨🏽‍💻 PhD Candidate in Computer Science at Universidade Federal Fluminense (UFF)
 - 💬 I research NLP with a focus on explainability and cultural sensitivity in AI.
 - ⚛️ I bridge classical Machine Learning, NLP and Quantum Computing applied to real-world problems
 - 🤖 Enthusiast of RAG architectures, LLM fine-tuning and autonomous AI agents
 - 📧 You can reach me at LinkedIn: [linkedin/juandanieto](https://linkedin.com/in/juandanieto)
+
 <br/>
 
----
+<hr style="border: 0; border-top: 0.5px solid #30363d;">
 
-## 🔬 Áreas de pesquisa
+## 🔬 Research Areas
 
 <div align="center">
 
-![PLN](https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural-7F77DD?style=for-the-badge&logoColor=white)
-![Linguagem Figurada](https://img.shields.io/badge/Linguagem%20Figurada%20Multilíngue-534AB7?style=for-the-badge&logoColor=white)
-![Explicabilidade](https://img.shields.io/badge/Explicabilidade%20em%20ML-1D9E75?style=for-the-badge&logoColor=white)
-![GenAI](https://img.shields.io/badge/IA%20Generativa%20%26%20LLMs-D85A30?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%26%20Agentes-993C1D?style=for-the-badge&logoColor=white)
-![Quantum](https://img.shields.io/badge/Computação%20Quântica-185FA5?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-7F77DD?style=for-the-badge&logoColor=white)
+![Figurative Language](https://img.shields.io/badge/Multilingual%20Figurative%20Language-534AB7?style=for-the-badge&logoColor=white)
+![Explainability](https://img.shields.io/badge/ML%20Explainability-1D9E75?style=for-the-badge&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-D85A30?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Agents-993C1D?style=for-the-badge&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum%20Computing-185FA5?style=for-the-badge&logoColor=white)
 
 </div>
 
 <br/>
 
----
+<hr style="border: 0; border-top: 0.5px solid #30363d;">
 
 ## 🛠️ Tech Stack
 
@@ -50,20 +51,19 @@
 
 <br/>
 
----
+<hr style="border: 0; border-top: 0.5px solid #30363d;">
 
-## 🏆 Conquistas
+## 🏆 Awards
 
-🏆 **Google PhD Fellowship 2023** — Computação Quântica aplicada ao setor financeiro · *Google*
+🏆 **Google PhD Fellowship 2023** — Quantum Computing applied to the financial sector · *Google*
 
-🥈 **2º lugar** — Hackathon IA para Óleo & Gás · *CBPF & Petrobras, 2025*
+🥈 **2nd place** — AI Hackathon for Oil & Gas · *CBPF & Petrobras, 2025*
 
-🏅 **5º lugar** — Hackathon IA 2025 · *Incubadora de Empresas COPPE/UFRJ*
+🏅 **5th place** — AI Hackathon 2025 · *COPPE/UFRJ Business Incubator*
 
 <br/>
 
----
-
+<hr style="border: 0; border-top: 0.5px solid #30363d;">
 
 ## 📬 Social
 
@@ -77,6 +77,6 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=juandanieto&color=7F77DD&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=juandanieto&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
 

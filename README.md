@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juandanieto/juandanieto/main/header.svg" alt="Hola! Soy Juan David – PhD Candidate in NLP @UFF" width="100%"/>
+
+# Hola! Soy Juan David 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+NLP+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agentes+Inteligentes;Google+PhD+Fellow+2023+%F0%9F%8F%86)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 ## Sobre mim
 
-Pesquiso **PLN** com foco em explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico, LLMs, IA Generativa, RAG e agentes inteligentes.
+Físico de formação, cientista da computação por escolha. Pesquiso **PLN multilíngue** com foco em expressões figuradas, explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico e quântico, LLMs, IA Generativa, RAG e agentes inteligentes.
 
 Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
 

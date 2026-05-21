@@ -21,7 +21,7 @@
 <div align="center">
 
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-7F77DD?style=for-the-badge&logoColor=white)
-![Explainable AI (XAI)](https://img.shields.io/badge/ML%20Explainability-1D9E75?style=for-the-badge&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI%20%28XAI%29-1D9E75?style=for-the-badge&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-D85A30?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20%26%20Agents-993C1D?style=for-the-badge&logoColor=white)
 ![Quantum](https://img.shields.io/badge/Quantum%20Computing-185FA5?style=for-the-badge&logoColor=white)

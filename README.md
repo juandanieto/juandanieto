@@ -9,7 +9,7 @@
 ---
 
 - 👨🏽‍💻 PhD Candidate in Computer Science at Universidade Federal Fluminense (UFF)
-- 💬 I research NLP with a focus on explainability and cultural sensitivity in AI.
+- 💬 I research NLP with a focus on explainability and cultural sensitivity in AI
 - ⚛️ I bridge classical Machine Learning, NLP and Quantum Computing applied to real-world problems
 - 🤖 Enthusiast of RAG architectures, LLM fine-tuning and autonomous AI agents
 - 📧 You can reach me at LinkedIn: [linkedin/juandanieto](https://linkedin.com/in/juandanieto)

@@ -1,64 +1,65 @@
-<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="170" viewBox="0 0 860 170" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @keyframes blink {
         0%, 100% { opacity: 1; }
         50%       { opacity: 0; }
       }
-      @keyframes slidein {
+      @keyframes slide {
         from { stroke-dashoffset: 900; }
         to   { stroke-dashoffset: 0; }
       }
-      @keyframes typing1 {
-        from { width: 0; }
-        to   { width: 340px; }
+      @keyframes reveal1 {
+        from { width: 420px; }
+        to   { width: 0px; }
       }
-      @keyframes typing2 {
-        from { width: 0; }
-        to   { width: 630px; }
+      @keyframes reveal2 {
+        from { width: 640px; }
+        to   { width: 0px; }
       }
-      @keyframes appear {
-        to { opacity: 1; }
+      @keyframes cur1-hide {
+        from { opacity: 1; }
+        to   { opacity: 0; }
       }
-      .topbar {
-        stroke: #7F77DD; stroke-width: 1.5;
-        stroke-dasharray: 900; stroke-dashoffset: 900;
-        animation: slidein 1s ease forwards 0.1s;
-        fill: none; opacity: 0.6;
-      }
-      .botbar {
-        stroke: #1D9E75; stroke-width: 1.5;
-        stroke-dasharray: 900; stroke-dashoffset: 900;
-        animation: slidein 1s ease forwards 0.2s;
-        fill: none; opacity: 0.6;
+      @keyframes cur2-show {
+        from { opacity: 0; }
+        to   { opacity: 1; }
       }
     </style>
   </defs>
 
-  <rect width="860" height="180" fill="#0d1117" rx="10"/>
-  <line x1="0" y1="3" x2="860" y2="3" class="topbar"/>
-  <line x1="0" y1="177" x2="860" y2="177" class="botbar"/>
+  <rect width="860" height="170" fill="#0d1117" rx="10"/>
 
-  <foreignObject x="0" y="0" width="860" height="180">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="padding: 28px 40px 28px; box-sizing: border-box;">
-      <style>
-        @keyframes typing1x { from { width: 0 } to { width: 100% } }
-        @keyframes typing2x { from { width: 0 } to { width: 100% } }
-        @keyframes blinkx { 0%,100%{opacity:1} 50%{opacity:0} }
-        @keyframes appearx { to { opacity: 1 } }
-      </style>
+  <!-- border lines -->
+  <line x1="0" y1="3" x2="860" y2="3"
+    stroke="#7F77DD" stroke-width="1.5" fill="none" opacity="0.6"
+    stroke-dasharray="900" stroke-dashoffset="900"
+    style="animation: slide 1s ease forwards 0.1s;"/>
+  <line x1="0" y1="167" x2="860" y2="167"
+    stroke="#1D9E75" stroke-width="1.5" fill="none" opacity="0.6"
+    stroke-dasharray="900" stroke-dashoffset="900"
+    style="animation: slide 1s ease forwards 0.2s;"/>
 
-      <div style="display:flex; align-items:baseline; gap:6px; margin-bottom:16px;">
-        <span style="font-family:'Courier New',monospace; font-size:34px; font-weight:700; color:#1D9E75;">&gt;&nbsp;</span>
-        <span style="font-family:'Courier New',monospace; font-size:34px; font-weight:700; color:#ffffff; overflow:hidden; white-space:nowrap; width:0; animation:typing1x 1.4s steps(22,end) forwards 0.3s; display:inline-block;">Hola! Soy Juan David 👋</span>
-        <span style="font-family:'Courier New',monospace; font-size:34px; font-weight:700; color:#7F77DD; animation:blinkx 0.7s step-end infinite;">|</span>
-      </div>
+  <!-- prompt symbols -->
+  <text x="38" y="82" font-family="'Courier New',monospace" font-size="34" font-weight="700" fill="#1D9E75">&gt;</text>
+  <text x="38" y="130" font-family="'Courier New',monospace" font-size="15" font-weight="700" fill="#534AB7">&gt;</text>
 
-      <div style="display:flex; align-items:baseline; gap:6px; opacity:0; animation:appearx 0s forwards 2s;">
-        <span style="font-family:'Courier New',monospace; font-size:14px; font-weight:700; color:#534AB7;">&gt;&nbsp;</span>
-        <span style="font-family:'Courier New',monospace; font-size:14px; color:#9FE1CB; overflow:hidden; white-space:nowrap; width:0; animation:typing2x 2.2s steps(70,end) forwards 2.1s; display:inline-block;">PhD Candidate in NLP @UFF | AI Researcher | Deep Tech | GenAI &amp; LLMs</span>
-        <span style="font-family:'Courier New',monospace; font-size:14px; color:#1D9E75; opacity:0; animation:appearx 0s forwards 2s, blinkx 0.7s step-end infinite 2.1s;">|</span>
-      </div>
-    </div>
-  </foreignObject>
+  <!-- line 1: name -->
+  <text x="72" y="82" font-family="'Courier New',monospace" font-size="34" font-weight="700" fill="#ffffff">Hola! Soy Juan David &#x1F44B;</text>
+  <!-- mask rect slides away left-to-right to reveal text -->
+  <rect x="72" y="48" height="42" fill="#0d1117"
+    style="animation: reveal1 1.4s steps(22,end) forwards 0.3s; width: 420px;"/>
+  <!-- cursor 1 -->
+  <text id="cur1" x="492" y="82" font-family="'Courier New',monospace" font-size="34" font-weight="700" fill="#7F77DD"
+    style="animation: blink 0.7s step-end infinite;">|</text>
+
+  <!-- line 2: subtitle -->
+  <text x="62" y="130" font-family="'Courier New',monospace" font-size="14" fill="#9FE1CB">PhD Candidate in NLP @UFF | AI Researcher | Deep Tech | GenAI &amp; LLMs</text>
+  <!-- mask rect for line 2 -->
+  <rect x="62" y="110" height="26" fill="#0d1117"
+    style="animation: reveal2 2s steps(65,end) forwards 2s; width: 640px;"/>
+  <!-- cursor 2 -->
+  <text x="702" y="130" font-family="'Courier New',monospace" font-size="14" fill="#1D9E75"
+    style="opacity:0; animation: cur2-show 0s forwards 2s, blink 0.7s step-end infinite 2s;">|</text>
+
 </svg>

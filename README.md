@@ -3,8 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=99999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hola!+Soy+Juan+David+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+NLP+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agents)](https://git.io/typing-svg)
+
 </div>
 <br/>
+
 ---
 - 👨🏽‍💻 PhD Candidate in Computer Science at Universidade Federal Fluminense (UFF)
 - 💬 I research NLP with a focus on explainability and cultural sensitivity in AI.

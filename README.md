@@ -14,9 +14,6 @@
 - 🤖 Enthusiast of RAG architectures, LLM fine-tuning and autonomous AI agents
 - 📧 You can reach me at LinkedIn: [linkedin/juandanieto](https://linkedin.com/in/juandanieto)
 
-
-Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
-
 <br/>
 
 ---

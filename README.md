@@ -16,8 +16,6 @@
 
 <br/>
 
-<hr style="border: 0; border-top: 0.5px solid #30363d;">
-
 ## 🔬 Research Areas
 
 <div align="center">

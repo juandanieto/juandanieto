@@ -10,7 +10,9 @@
 
 ---
 
-Pesquiso **PLN** com foco em explicabilidade e sensibilidade cultural da IA. Tenho experiência em Machine Laerning, LLMs, IA Generativa, RAG e agentes inteligentes.
+## 🧠 Sobre mim
+
+Físico de formação, cientista da computação por escolha. Pesquiso **PLN multilíngue** com foco em expressões figuradas, explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico e quântico, LLMs, IA Generativa, RAG e agentes inteligentes.
 
 Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
 
@@ -22,11 +24,12 @@ Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](h
 
 <div align="center">
 
-| 🗣️ Linguagem | 🤖 IA & ML | ⚛️ Computação |
-|:---:|:---:|:---:|
-| Processamento de Linguagem Natural | IA Generativa & LLMs | Computação Quântica |
-| Linguagem Figurada Multilíngue | RAG & Agentes Inteligentes | ML Quântico |
-| Sensibilidade Cultural em IA | Explicabilidade em ML | Qiskit & Pennylane |
+![PLN](https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural-7F77DD?style=for-the-badge&logoColor=white)
+![Linguagem Figurada](https://img.shields.io/badge/Linguagem%20Figurada%20Multilíngue-534AB7?style=for-the-badge&logoColor=white)
+![Explicabilidade](https://img.shields.io/badge/Explicabilidade%20em%20ML-1D9E75?style=for-the-badge&logoColor=white)
+![GenAI](https://img.shields.io/badge/IA%20Generativa%20%26%20LLMs-D85A30?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Agentes-993C1D?style=for-the-badge&logoColor=white)
+![Quantum](https://img.shields.io/badge/Computação%20Quântica-185FA5?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -34,25 +37,17 @@ Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](h
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
 <div align="center">
-
-### Linguagens & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### MLOps & Dados
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Computação Quântica
-
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -62,27 +57,61 @@ Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](h
 
 ## 🏆 Conquistas
 
-<div align="center">
+🏆 **Google PhD Fellowship 2023** — Computação Quântica aplicada ao setor financeiro · *Google*
 
-| 🥇 | Prêmio | Organização | Ano |
-|:---:|:---|:---|:---:|
-| 🏆 | **Google PhD Fellowship** — Computação Quântica aplicada ao setor financeiro | Google | 2023 |
-| 🥈 | **2º lugar** — Hackathon IA para Óleo & Gás | CBPF & Petrobras | 2025 |
-| 🏅 | **5º lugar** — Hackathon IA | Incubadora COPPE/UFRJ | 2025 |
+🥈 **2º lugar** — Hackathon IA para Óleo & Gás · *CBPF & Petrobras, 2025*
 
-</div>
+🏅 **5º lugar** — Hackathon IA 2025 · *Incubadora de Empresas COPPE/UFRJ*
 
 <br/>
 
 ---
 
-## 📬 Contato
+## 📄 Publicação
+
+> Valdrighi, G., Ribeiro, A., Pereira, J., Guardieiro, V., Hendricks, A., Miranda, D., **Nieto, J.**, et al.
+> **Best Practices for Responsible Machine Learning in Credit Scoring.**
+> *Neural Computing and Applications*, 2025.
+> 🔗 [Springer Link](https://link.springer.com/article/10.1007/s00521-025-11520-y)
+
+<br/>
+
+---
+
+## 🎓 Formação
+
+| Grau | Instituição | Período |
+|:---|:---|:---:|
+| Ph.D. em Ciência da Computação | Universidade Federal Fluminense (UFF) | 2025 – presente |
+| M.Sc. em Física | PUC-Rio | 2021 – 2022 |
+| B.Sc. em Física | Universidad del Atlántico, Colômbia | – 2021 |
+
+<br/>
+
+---
+
+## 💼 Experiência
+
+🔹 **Pesquisador em PLN** · MeLLL / UFF *(ago 2025 – presente)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pesquisa em PLN voltada à detecção de expressões figuradas multilíngues, com ênfase em explicabilidade e sensibilidade cultural da IA.
+
+<br/>
+
+🔹 **Pesquisador em Machine Learning** · H.IAAC / Unicamp *(nov 2022 – jun 2024)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de dados para interpretabilidade em modelos financeiros de credit scoring.
+
+<br/>
+
+---
+
+## 📬 Social
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
-[![Email](https://img.shields.io/badge/Email-juand@id.uff.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
-[![Localização](https://img.shields.io/badge/Niterói%2C%20RJ-Brasil-1D9E75?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
 
 </div>
 
@@ -91,3 +120,4 @@ Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](h
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=juandanieto&color=7F77DD&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="profile views"/>
 </div>
+

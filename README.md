@@ -1,16 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hola!+Soy+Juan+David+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=99999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hola!+Soy+Juan+David+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+NLP+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agentes+Inteligentes;Google+PhD+Fellow+2023+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9FE1CB&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+NLP+%40UFF;AI+Researcher+%7C+Deep+Tech;GenAI+%26+LLMs+%7C+RAG+%7C+Agentes+Inteligentes)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Sobre mim
-
-Físico de formação, cientista da computação por escolha. Pesquiso **PLN multilíngue** com foco em expressões figuradas, explicabilidade e sensibilidade cultural da IA. Tenho experiência em ML clássico e quântico, LLMs, IA Generativa, RAG e agentes inteligentes.
+Pesquiso **PLN** com foco em explicabilidade e sensibilidade cultural da IA. Tenho experiência em Machine Learning, LLMs, IA Generativa, RAG e Agentes inteligentes.
 
 Atuo no grupo **[MeLLL – Machine Learning and Language Learning Group (UFF)](https://melll-uff.github.io/)**, na linha de Processamento de Linguagem Natural.
 
@@ -83,4 +81,3 @@ Técnicas de ML clássicas e quânticas com foco em explicabilidade; análise de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juandanieto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanieto)
 [![Email](https://img.shields.io/badge/Email-juand@id.uff.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juand@id.uff.br)
 [![Localização](https://img.shields.io/badge/Niterói%2C%20RJ-Brasil-1D9E75?style=flat-square&logo=googlemaps&logoColor=white)](#)
-

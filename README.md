@@ -67,14 +67,16 @@
 
 ## 🗂️ Featured Presentations
 
+> Collaborative projects where I served both as author of the presentations and as a developer — from research to implementation.
+
 <div align="center">
 
-| 🪨 CBPF & Petrobras | 🏥 COPPE/UFRJ | 💳 PaySmart Solutions |
+| CBPF & Petrobras | SUS & COPPE/UFRJ | PaySmart Solutions |
 |:---:|:---:|:---:|
-| **AI Hackathon — Oil & Gas** | **AI Hackathon — SUS** | **Confiabilidade na Cobrança de Taxas** |
-| Classificação automática de lâminas delgadas de carbonato com visão computacional aplicada à análise petrofísica. | Solução de IA para otimização de processos e análise de dados no sistema público de saúde brasileiro. | Pipeline de auditoria financeira com Machine Learning para detecção de isenções fantasmas e falhas de faturamento. |
-| ![CV](https://img.shields.io/badge/Computer%20Vision-185FA5?style=flat-square&logoColor=white) ![Oil&Gas](https://img.shields.io/badge/Oil%20%26%20Gas-D85A30?style=flat-square&logoColor=white) | ![NLP](https://img.shields.io/badge/Machine%20Learning-7F77DD?style=flat-square&logoColor=white) ![Health](https://img.shields.io/badge/Health%20Tech-1D9E75?style=flat-square&logoColor=white) | ![ML](https://img.shields.io/badge/Anomaly%20Detection-F7931E?style=flat-square&logoColor=white) ![Fintech](https://img.shields.io/badge/Fintech-1D9E75?style=flat-square&logoColor=white) |
-| [![Ver PDF](https://img.shields.io/badge/Ver%20Apresentação-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aiVUALUSA1_K6i89kgORQ00cK50GVjSs/view?usp=drive_link) | [![Ver PDF](https://img.shields.io/badge/Ver%20Apresentação-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/100K5snVx9eQqAFX6IPYXVwRpiafC_7K5/view?usp=drive_link) | [![Ver PDF](https://img.shields.io/badge/Ver%20Apresentação-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CCqxr-vwOeFIM7Xf43eNkW-MwCPtd8Q0/view?usp=drive_link) |
+| **AI Hackathon — Oil & Gas** | **AI Hackathon — SUS** | **Transaction Fee Reliability Audit** |
+| Automatic classification of carbonate thin sections using computer vision applied to petrophysical analysis. | AI solution for process optimization and data analysis in the Brazilian public health system. | Financial auditing pipeline using Machine Learning to detect ghost exemptions and billing failures in transactions. |
+| ![CV](https://img.shields.io/badge/Computer%20Vision-185FA5?style=flat-square&logoColor=white) ![Oil&Gas](https://img.shields.io/badge/Oil%20%26%20Gas-D85A30?style=flat-square&logoColor=white) | ![ML](https://img.shields.io/badge/Machine%20Learning-7F77DD?style=flat-square&logoColor=white) ![Health](https://img.shields.io/badge/Health%20Tech-1D9E75?style=flat-square&logoColor=white) | ![ML](https://img.shields.io/badge/Anomaly%20Detection-F7931E?style=flat-square&logoColor=white) ![Fintech](https://img.shields.io/badge/Fintech-1D9E75?style=flat-square&logoColor=white) |
+| [![View PDF](https://img.shields.io/badge/View%20Slides-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aiVUALUSA1_K6i89kgORQ00cK50GVjSs/view?usp=drive_link) | [![View PDF](https://img.shields.io/badge/View%20Slides-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/100K5snVx9eQqAFX6IPYXVwRpiafC_7K5/view?usp=drive_link) | [![View PDF](https://img.shields.io/badge/View%20Slides-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CCqxr-vwOeFIM7Xf43eNkW-MwCPtd8Q0/view?usp=drive_link) |
 
 </div>
 

@@ -67,7 +67,7 @@
 
 ## 🗂️ Featured Presentations
 
-> Collaborative projects where I served both as author of the presentations and as a developer — from research to implementation.
+> Collaborative projects where I served both as author of the presentations and as a developer.
 
 <div align="center">
 
